@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: Entrance - first choice
+  m_EditorClassIdentifier: 
+  locationName: First choice
+  description: You reach a fork in the path, do you go west or east?
+  locationNorth: {fileID: 0}
+  locationSouth: {fileID: 11400000, guid: 815a98bb9447b4554a42473d2137273b, type: 2}
+  locationEast: {fileID: 11400000, guid: ff8c50722bc0447f58c17b11a6eb89c6, type: 2}
+  locationWest: {fileID: 11400000, guid: 8e282d75ace814b12ae430105e7190cc, type: 2}

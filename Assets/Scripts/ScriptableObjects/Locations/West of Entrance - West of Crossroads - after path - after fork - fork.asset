@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: West of Entrance - West of Crossroads - after path - after fork - fork
+  m_EditorClassIdentifier: 
+  locationName: On the Path
+  description: There are two new paths. One South, and one East.
+  locationNorth: {fileID: 11400000, guid: 2fe313ca15ca14f47821ecd9c46f86eb, type: 2}
+  locationSouth: {fileID: 11400000, guid: 8e6b7cedcaf36ab429657a9be91a4d71, type: 2}
+  locationEast: {fileID: 11400000, guid: 507d203618b7c524c96fbcdd84f34a4a, type: 2}
+  locationWest: {fileID: 0}

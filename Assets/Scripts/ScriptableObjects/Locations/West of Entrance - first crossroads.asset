@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: West of Entrance - first crossroads
+  m_EditorClassIdentifier: 
+  locationName: A Crossroads
+  description: You reach a crossroads, what will you do?
+  locationNorth: {fileID: 11400000, guid: 4fd54f23d0a2124458029560d456d4c3, type: 2}
+  locationSouth: {fileID: 11400000, guid: 8e282d75ace814b12ae430105e7190cc, type: 2}
+  locationEast: {fileID: 11400000, guid: ddfdd23f59a47454a9a5a9ce9874b144, type: 2}
+  locationWest: {fileID: 11400000, guid: 13dffab52a2c0d44d97cfe040fe8e32a, type: 2}

@@ -1,0 +1,579 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16218 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\beaum\Documents\Unity\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/beaum/Documents/Codelab1/Week8 - UI & Scriptable Objects
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60862
+Successfully changed project path to: C:/Users/beaum/Documents/Codelab1/Week8 - UI & Scriptable Objects
+C:/Users/beaum/Documents/Codelab1/Week8 - UI & Scriptable Objects
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/beaum/Documents/Codelab1/Week8 - UI & Scriptable Objects/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     8109 MB
+    Driver:   26.20.100.7263
+Initialize mono
+Mono path[0] = 'C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56216
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Users/beaum/Documents/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003335 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.9 MB.
+System memory in use after: 55.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1525.
+Total: 3.614600 ms (FindLiveObjects: 0.300300 ms CreateObjectMapping: 0.141500 ms MarkObjects: 3.034900 ms  DeleteObjects: 0.136400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/ScriptableObjects/Locations/Home - BackYard.asset
+  artifactKey: Guid(3472ffb2829b3443ba400fc87346335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Home - BackYard.asset using Guid(3472ffb2829b3443ba400fc87346335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2e93cd29436febdf5bec44224d0cf6') in 0.059692 seconds
+  Import took 0.061636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001191 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Home - House.asset
+  artifactKey: Guid(815a98bb9447b4554a42473d2137273b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Home - House.asset using Guid(815a98bb9447b4554a42473d2137273b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d2b2ce014537ddd4eaa956e3205090') in 0.009982 seconds
+  Import took 0.012107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Home - DriveWay.asset
+  artifactKey: Guid(ff8c50722bc0447f58c17b11a6eb89c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Home - DriveWay.asset using Guid(ff8c50722bc0447f58c17b11a6eb89c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70943f5c14abd3ccfcbf0592ee84a621') in 0.019209 seconds
+  Import took 0.022329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102046 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Home - Pool.asset
+  artifactKey: Guid(01dd4350b1e2f4343b2b01ee71e259b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Home - Pool.asset using Guid(01dd4350b1e2f4343b2b01ee71e259b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d003a726730e279042d27102ae001cb') in 0.016495 seconds
+  Import took 0.022111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002250 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Home - Pool.asset
+  artifactKey: Guid(01dd4350b1e2f4343b2b01ee71e259b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Home - Pool.asset using Guid(01dd4350b1e2f4343b2b01ee71e259b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d003a726730e279042d27102ae001cb') in 0.010816 seconds
+  Import took 0.015287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.157762 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/My Street - Dead End.asset
+  artifactKey: Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/My Street - Dead End.asset using Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d5b3f11cea516dd4d20f21570f509a') in 0.015511 seconds
+  Import took 0.018535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003129 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/My Street - Dead End.asset
+  artifactKey: Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/My Street - Dead End.asset using Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d5b3f11cea516dd4d20f21570f509a') in 0.007088 seconds
+  Import took 0.010258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.698129 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations
+  artifactKey: Guid(92ad4a745b3f44546b19bb52cd93d092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations using Guid(92ad4a745b3f44546b19bb52cd93d092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa522084f011c2131900fecc731842a') in 0.014632 seconds
+  Import took 0.016621 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1073 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.8 MB.
+System memory in use after: 55.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1527.
+Total: 1.655200 ms (FindLiveObjects: 0.149700 ms CreateObjectMapping: 0.060000 ms MarkObjects: 1.425000 ms  DeleteObjects: 0.019100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.975934 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(83959a3a72f23fc4a983fef17e420b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(83959a3a72f23fc4a983fef17e420b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c3295f1068c86b83e01db1f8cdaf9a') in 0.014935 seconds
+  Import took 0.017034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.874378 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location 1.asset
+  artifactKey: Guid(1f8cca50cba9b3343a8f9ee0b5598dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location 1.asset using Guid(1f8cca50cba9b3343a8f9ee0b5598dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69bb4ee315758316b90c0463a8ade24') in 0.020886 seconds
+  Import took 0.024313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.830153 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location 2.asset
+  artifactKey: Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location 2.asset using Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156d20f5330c8785643a7e814ea30794') in 0.013413 seconds
+  Import took 0.015964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.291480 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location 3.asset
+  artifactKey: Guid(ddfdd23f59a47454a9a5a9ce9874b144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location 3.asset using Guid(ddfdd23f59a47454a9a5a9ce9874b144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b8efa911855a9f5994568296df81e1') in 0.013393 seconds
+  Import took 0.017989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.505979 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location 4.asset
+  artifactKey: Guid(13dffab52a2c0d44d97cfe040fe8e32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location 4.asset using Guid(13dffab52a2c0d44d97cfe040fe8e32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f789c6ec809e0c2a9807f804aee061b5') in 0.012355 seconds
+  Import took 0.014599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.352000 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Home - Front Yard.asset
+  artifactKey: Guid(459d53a9900da4278b1f1548022d5fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Home - Front Yard.asset using Guid(459d53a9900da4278b1f1548022d5fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131235d49318b55d2e9f7772424bfbea') in 0.011528 seconds
+  Import took 0.013810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.284478 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Entrance-Start.asset
+  artifactKey: Guid(815a98bb9447b4554a42473d2137273b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Entrance-Start.asset using Guid(815a98bb9447b4554a42473d2137273b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea61dc023ad740ac2438dd671a9267af') in 0.011116 seconds
+  Import took 0.013798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.877705 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Entrance - first choice.asset
+  artifactKey: Guid(3472ffb2829b3443ba400fc87346335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Entrance - first choice.asset using Guid(3472ffb2829b3443ba400fc87346335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4568b67faa39c4cb7d037e3f95b9744') in 0.014679 seconds
+  Import took 0.019121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.542113 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/East of Entrance - path continues.asset
+  artifactKey: Guid(ff8c50722bc0447f58c17b11a6eb89c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/East of Entrance - path continues.asset using Guid(ff8c50722bc0447f58c17b11a6eb89c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79ea3a88f12d94afb72403595bbc6b9') in 0.017615 seconds
+  Import took 0.022401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.446059 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/East of Entrance - bend in the path.asset
+  artifactKey: Guid(459d53a9900da4278b1f1548022d5fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/East of Entrance - bend in the path.asset using Guid(459d53a9900da4278b1f1548022d5fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fcf626dde7dbfeef8a65fd60c565545') in 0.013324 seconds
+  Import took 0.017961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.960323 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/East of Entrance - Hit the tree.asset
+  artifactKey: Guid(01dd4350b1e2f4343b2b01ee71e259b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/East of Entrance - Hit the tree.asset using Guid(01dd4350b1e2f4343b2b01ee71e259b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a70516da907de17b1f704db8432e76') in 0.011532 seconds
+  Import took 0.013811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.786209 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - First bend.asset
+  artifactKey: Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - First bend.asset using Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b80b7f3f5179071d29789ce1497c5be') in 0.009548 seconds
+  Import took 0.012367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.355816 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - first crossroads.asset
+  artifactKey: Guid(1f8cca50cba9b3343a8f9ee0b5598dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - first crossroads.asset using Guid(1f8cca50cba9b3343a8f9ee0b5598dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ecd7a47ea211e88b294cf032c4654d') in 0.011029 seconds
+  Import took 0.013879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.953191 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Top right circle.asset
+  artifactKey: Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Top right circle.asset using Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6655765e705cf49aafbed90fb2f2a5e') in 0.011570 seconds
+  Import took 0.014394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.094541 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location 1.asset
+  artifactKey: Guid(a2768c4cf7a209142855a25d8f192157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location 1.asset using Guid(a2768c4cf7a209142855a25d8f192157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ced9dff6fed18c4ce7cb47bfed65f2b9') in 0.010331 seconds
+  Import took 0.014351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.588007 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Circle start.asset
+  artifactKey: Guid(ddfdd23f59a47454a9a5a9ce9874b144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Circle start.asset using Guid(ddfdd23f59a47454a9a5a9ce9874b144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d1d80cb5386c8a9188af59c54840e3') in 0.010902 seconds
+  Import took 0.014559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.719125 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Circle point.asset
+  artifactKey: Guid(83959a3a72f23fc4a983fef17e420b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Circle point.asset using Guid(83959a3a72f23fc4a983fef17e420b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96642e7ffd7d91de57fdc4fc6adce940') in 0.020032 seconds
+  Import took 0.024710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.137374 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Top left circle.asset
+  artifactKey: Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Top left circle.asset using Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457b947ebca75b135ce9490cd84948d1') in 0.015142 seconds
+  Import took 0.019763 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1073 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.8 MB.
+System memory in use after: 55.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1529.
+Total: 2.262200 ms (FindLiveObjects: 0.108900 ms CreateObjectMapping: 0.031800 ms MarkObjects: 2.107400 ms  DeleteObjects: 0.013300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.809259 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Bend.asset
+  artifactKey: Guid(13dffab52a2c0d44d97cfe040fe8e32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Bend.asset using Guid(13dffab52a2c0d44d97cfe040fe8e32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88197346ba41c4aa759f2f0a770386b2') in 0.014627 seconds
+  Import took 0.016500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.018037 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '526c22d9bf4613cf05ff890fa7aa8ff0') in 0.009812 seconds
+  Import took 0.014827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.551044 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues.asset
+  artifactKey: Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues.asset using Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '221672aaca6e9da1470c57c1e0b11720') in 0.009293 seconds
+  Import took 0.012056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.961933 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues 1.asset
+  artifactKey: Guid(f5039663d01e59045a488a7977f826f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues 1.asset using Guid(f5039663d01e59045a488a7977f826f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca9f007db3f8a4889f2f3799553bbf8') in 0.020578 seconds
+  Import took 0.023205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.890258 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues.asset
+  artifactKey: Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues.asset using Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc4c4aae732930b7f4cde2e6532fa13') in 0.012471 seconds
+  Import took 0.015803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001719 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues.asset
+  artifactKey: Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues.asset using Guid(400be497e9779ac48bf3a582c4aa97a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc4c4aae732930b7f4cde2e6532fa13') in 0.007672 seconds
+  Import took 0.010641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.991980 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues 2.asset
+  artifactKey: Guid(220b695fce2bd424f8b9ce65eae06875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues 2.asset using Guid(220b695fce2bd424f8b9ce65eae06875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f801376493224a4c20109f295e07744') in 0.022409 seconds
+  Import took 0.024932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.224808 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues 1.asset
+  artifactKey: Guid(f5039663d01e59045a488a7977f826f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - Path continues 1.asset using Guid(f5039663d01e59045a488a7977f826f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a632f525cc2d66facf96e150aefc97ab') in 0.009146 seconds
+  Import took 0.011638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.695656 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(8ab4170c922083641a26a40129acfdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(8ab4170c922083641a26a40129acfdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfdf0724e35b1d17172b8e378ff88c0') in 0.005129 seconds
+  Import took 0.007470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.584494 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - west of Crossroads - after path - bend.asset
+  artifactKey: Guid(8ab4170c922083641a26a40129acfdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - west of Crossroads - after path - bend.asset using Guid(8ab4170c922083641a26a40129acfdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05deca95dc66a4ee53933dfa90565127') in 0.011052 seconds
+  Import took 0.014080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.102829 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(aabd0df8fa202384cbcd8b1d3ac03fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(aabd0df8fa202384cbcd8b1d3ac03fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b613c61f991d3c702b59cb98ef5321d') in 0.011404 seconds
+  Import took 0.015004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1130.194878 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - fork.asset
+  artifactKey: Guid(aabd0df8fa202384cbcd8b1d3ac03fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - fork.asset using Guid(aabd0df8fa202384cbcd8b1d3ac03fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e67405622ea8ba63aadf3908e9b801') in 0.015111 seconds
+  Import took 0.020951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.102262 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Top left circle.asset
+  artifactKey: Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Top left circle.asset using Guid(4fd54f23d0a2124458029560d456d4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765f6562ea1c16b7b851273f489aee84') in 0.013087 seconds
+  Import took 0.015354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.510143 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(2fe313ca15ca14f47821ecd9c46f86eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(2fe313ca15ca14f47821ecd9c46f86eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd979fc0892d37bf47c57d4536829714c') in 0.007585 seconds
+  Import took 0.011494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.852249 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - north of fork - End of road.asset
+  artifactKey: Guid(a2768c4cf7a209142855a25d8f192157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - north of fork - End of road.asset using Guid(a2768c4cf7a209142855a25d8f192157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04fdc7abb8a7f2824a9e0dead619c212') in 0.010973 seconds
+  Import took 0.015353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.496641 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - bend.asset
+  artifactKey: Guid(2fe313ca15ca14f47821ecd9c46f86eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - bend.asset using Guid(2fe313ca15ca14f47821ecd9c46f86eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed9214affed4779d2cd02620a1f4e20') in 0.016498 seconds
+  Import took 0.019386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 278.644026 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(9792283c8a563dc4b842dc2a3fb2933f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(9792283c8a563dc4b842dc2a3fb2933f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67177d107eaaf3ca00c732a799b1087b') in 0.010207 seconds
+  Import took 0.013877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.375012 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - fork.asset
+  artifactKey: Guid(9792283c8a563dc4b842dc2a3fb2933f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - fork.asset using Guid(9792283c8a563dc4b842dc2a3fb2933f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de728c1914307fffd6a55a0363e624d') in 0.013799 seconds
+  Import took 0.016094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.164307 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(8e6b7cedcaf36ab429657a9be91a4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(8e6b7cedcaf36ab429657a9be91a4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ef7125f9a480a4dcf93db09e5a8e81') in 0.014646 seconds
+  Import took 0.017741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.533444 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location 1.asset
+  artifactKey: Guid(507d203618b7c524c96fbcdd84f34a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location 1.asset using Guid(507d203618b7c524c96fbcdd84f34a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38392ef768c01258618965c10cef5f73') in 0.009361 seconds
+  Import took 0.012775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.359743 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - second fork - south.asset
+  artifactKey: Guid(8e6b7cedcaf36ab429657a9be91a4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - second fork - south.asset using Guid(8e6b7cedcaf36ab429657a9be91a4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6981ed0f29b33ac61f189e75213c0971') in 0.015245 seconds
+  Import took 0.019774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.715616 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - second fork - east.asset
+  artifactKey: Guid(507d203618b7c524c96fbcdd84f34a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - second fork - east.asset using Guid(507d203618b7c524c96fbcdd84f34a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d9b2adcd0d91e891c8a3616a0d08a1') in 0.011523 seconds
+  Import took 0.015296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.973623 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Entrance - first choice.asset
+  artifactKey: Guid(3472ffb2829b3443ba400fc87346335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Entrance - first choice.asset using Guid(3472ffb2829b3443ba400fc87346335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c685b53f22e9d3aff89ccd8552b0a56') in 0.013038 seconds
+  Import took 0.016502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.949803 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(4e996bc30e37c92478e2a4236cc9b6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(4e996bc30e37c92478e2a4236cc9b6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78962f0a11f9e392385f54fe86bc3d6c') in 0.008139 seconds
+  Import took 0.011825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.338653 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Circle point.asset
+  artifactKey: Guid(83959a3a72f23fc4a983fef17e420b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - Circle point.asset using Guid(83959a3a72f23fc4a983fef17e420b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51537007740587d648556630d683c599') in 0.011095 seconds
+  Import took 0.015063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.398045 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - second fork - east - exit.asset
+  artifactKey: Guid(4e996bc30e37c92478e2a4236cc9b6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - West of Crossroads - after path - after fork - second fork - east - exit.asset using Guid(4e996bc30e37c92478e2a4236cc9b6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369248b5642691ffd94d1995bbb96b09') in 0.011340 seconds
+  Import took 0.014536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.648941 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/West of Entrance - First bend.asset
+  artifactKey: Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/West of Entrance - First bend.asset using Guid(8e282d75ace814b12ae430105e7190cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c08774beef7f51c3ca679e3a5c79c59') in 0.010790 seconds
+  Import took 0.013271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.462966 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/New Location.asset
+  artifactKey: Guid(28f40e4dcf4a76449b470e76a82e71c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/New Location.asset using Guid(28f40e4dcf4a76449b470e76a82e71c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7a738339857bb4284535ed6279b694') in 0.008163 seconds
+  Import took 0.011161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.198870 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Exit.asset
+  artifactKey: Guid(28f40e4dcf4a76449b470e76a82e71c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Exit.asset using Guid(28f40e4dcf4a76449b470e76a82e71c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6693dfe8070055f26ceed24ea452f7d5') in 0.016590 seconds
+  Import took 0.019499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.111073 seconds.
+  path: Assets/Scripts/ScriptableObjects/Locations/Exit.asset
+  artifactKey: Guid(28f40e4dcf4a76449b470e76a82e71c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScriptableObjects/Locations/Exit.asset using Guid(28f40e4dcf4a76449b470e76a82e71c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cfddd8bc74aef4fd37b6981a827f8e') in 0.014131 seconds
+  Import took 0.019077 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
